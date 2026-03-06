@@ -8,7 +8,7 @@ Interface do projeto:
 📝 **Projeto Cordel**
 
 
-Esse projeto foi construido para colocar em prática tudo que aprendi sobre o efeito paralax em CSS e fixação de imagens no fundo. Além disso, apliquei outros conhecimentos fundamentais de HTML e CSS para construir essa página.
+Esse projeto foi construido para colocar em prática tudo que aprendi sobre o efeito parallax em CSS e fixação de imagens no fundo. Além disso, apliquei outros conhecimentos fundamentais de HTML e CSS para construir essa página.
 
 
 **Tecnologias Utilizadas**
@@ -21,8 +21,8 @@ Esse projeto foi construido para colocar em prática tudo que aprendi sobre o ef
 
 Neste exercício, foquei em aplicar os seguintes conceitos:
 
-* Efeito paralax
-* Insenção de imagens no fundo via CSS
+* Efeito parallax
+* Inserção de imagens no fundo via CSS
 * Responsividade usando media query
   
 
