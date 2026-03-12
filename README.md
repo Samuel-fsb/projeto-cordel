@@ -22,9 +22,9 @@ Esse projeto foi construido para colocar em prática tudo que aprendi sobre o ef
 
 Neste projeto, foquei em aplicar os seguintes conceitos:
 
-* Efeito parallax
-* Inserção de imagens no fundo via CSS
-* Responsividade usando media query
+* Efeito parallax;
+* Inserção de imagens no fundo via CSS;
+* Responsividade usando media query.
   
 
 ### Como funciona?
